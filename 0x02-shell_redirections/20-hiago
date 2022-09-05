@@ -1,2 +1,2 @@
 #!/bin/bash
-tr -d Hh
+tr -d H h
